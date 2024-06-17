@@ -14,7 +14,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Hello World!
         </h1>
-        <p>🖥️💖☕ by <a href="https://github.com/warengonzaga">Waren Gonzaga</a></p>
+        <p>🖥️💖☕ by <a href="https://github.com/warengonzaga">Ashher</a></p>
       </main>
     </div>
   )
